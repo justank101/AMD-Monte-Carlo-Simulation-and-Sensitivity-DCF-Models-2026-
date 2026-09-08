@@ -1,0 +1,2 @@
+# AMD-Montecarlo-Simulation-and-Sensitivity-DCF-model-2026
+This project evaluates AMD’s intrinsic value using a Monte Carlo simulation and sensitivity analysis. The Monte Carlo graph displays the distribution of simulated AMD prices based on randomly selected revenue growth and exit multiples. The sensitivity table shows AMD’s price across different WACCs and exit multiples using one revenue assumption.
